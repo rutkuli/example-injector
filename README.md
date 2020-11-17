@@ -1,4 +1,4 @@
-# example-injector
+# example-injector  [![](https://www.codefactor.io/repository/github/rutkuli/example-injector/badge)](https://www.codefactor.io/repository/github/rutkuli/example-injector)
 
 
 ### What it injector?
